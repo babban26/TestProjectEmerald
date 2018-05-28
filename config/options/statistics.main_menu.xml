@@ -1,0 +1,25 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Edit -&gt; Indent Selection" count="1" />
+      <entry path="File -&gt; Import Settings..." count="1" />
+      <entry path="File -&gt; New -&gt; Project..." count="1" />
+      <entry path="File -&gt; Open..." count="8" />
+      <entry path="File -&gt; Project Structure..." count="3" />
+      <entry path="File -&gt; Settings..." count="2" />
+      <entry path="Help -&gt; About" count="1" />
+      <entry path="VCS -&gt; Checkout from Version Control -&gt; Git" count="1" />
+      <entry path="VCS -&gt; Checkout from Version Control -&gt; GitHub" count="2" />
+      <entry path="VCS -&gt; Commit" count="2" />
+      <entry path="VCS -&gt; Create Patch from Local Changes..." count="1" />
+      <entry path="VCS -&gt; Enable Version Control Integration..." count="2" />
+      <entry path="VCS -&gt; Git -&gt; Commit File" count="3" />
+      <entry path="VCS -&gt; Git -&gt; Push..." count="3" />
+      <entry path="VCS -&gt; Git -&gt; Stash Changes..." count="2" />
+      <entry path="VCS -&gt; Git -&gt; UnStash Changes..." count="1" />
+      <entry path="VCS -&gt; Local History -&gt; Show History" count="2" />
+      <entry path="VCS -&gt; Refresh File Status" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Project" count="1" />
+    </counts>
+  </component>
+</application>

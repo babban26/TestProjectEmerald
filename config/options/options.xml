@@ -1,0 +1,32 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="installed.kotlin.plugin.version" value="1.2.10-release-IJ2017.3-1" />
+    <property name="android-component-compatibility-check" value="1527500244999" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/.IdeaIC2017.3&#10;D:/All-Projects/Injenta/Advertising Automation script/CucumberFramework&#10;D:/All-Projects/Emerald/MarkLogic/CodeXCC/MarklogicImp.java&#10;D:/All-Projects/Injenta/Advertising Automation script/Advertising Automation/.project&#10;D:/All-Projects/Injenta/Advertising Automation/Advertising Automation/.project&#10;D:/Others/tnf_With_Allure/tnf_With_Allure/.project&#10;C:/Program Files (x86)/Java/jdk1.8.0_102" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="lastTip" value="24" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="TestNGSupport.hidePassedTests" value="false" />
+    <property name="TestNGSupport.hideConfig" value="true" />
+    <property name="SearchEveryWhereHistory" value="GIt repository&#10;verify" />
+    <property name="file.gist.reindex.count" value="192" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
+    <property name="TestNGSupport.scrollToStackTrace" value="true" />
+    <property name="PLUGIN_FILTER" value="cucumber" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="JUnit.Splitter.Proportion" value="0.18193384" />
+    <property name="search.everywhere.max.popup.width" value="620" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.4393204" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.63353115" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="342" />
+  </component>
+</application>

@@ -1,0 +1,81 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Run Dashboard">
+      <project id="tnf" values="run.dashboard.disabled" collectionTime="1524061189101" />
+      <project id="IET.tv_Test" values="run.dashboard.disabled" collectionTime="1525264016330" />
+      <project id="Advertising Automation" values="run.dashboard.disabled" collectionTime="1526021903482" />
+      <project id="CucumberFramework" values="run.dashboard.disabled" collectionTime="1526023058451" />
+    </group>
+    <group name="Git">
+      <project id="tnf" values="config.push.autoupdate.disabled,version.0.0.0-NULL,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.warn.about.crlf.enabled" collectionTime="1524061189111" />
+      <project id="IET.tv_Test" values="config.repo.sync.NOT_DECIDED,data.remote.branches.count.0,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,data.local.branches.count.0,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,version.2.16.2-CYGWIN,data.remotes.in.project.0,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH" collectionTime="1525264016530" />
+      <project id="Advertising Automation" values="config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.ssh.enabled,data.remotes.in.project.1,config.save.policy.STASH,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,data.local.branches.count.1,config.repo.sync.NOT_DECIDED,version.2.16.2-CYGWIN,data.remote.servers.bitbucket.org.1,config.push.autoupdate.disabled,data.remote.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled" collectionTime="1526021903652" />
+      <project id="CucumberFramework" values="config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.warn.about.crlf.enabled,version.0.0.0-NULL,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1526023058551" />
+    </group>
+    <group name="vcs">
+      <project id="IET.tv_Test" values="Git" collectionTime="1525264016168" />
+      <project id="Advertising Automation" values="Git" collectionTime="1526021903422" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="IET.tv_Test" values="TestNG" collectionTime="1525264016180" />
+    </group>
+    <group name="module-language-level">
+      <project id="tnf" values="JDK_1_8" collectionTime="1524061189111" />
+      <project id="IET.tv_Test" values="JDK_1_5" collectionTime="1525264016500" />
+      <project id="Advertising Automation" values="JDK_1_8" collectionTime="1526021903513" />
+      <project id="CucumberFramework" values="JDK_1_8" collectionTime="1526023058551" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="IET.tv_Test" values="data.commit.count.0,data.users.count.0,data.git.root.count.1,data.branches.count.0" collectionTime="1525264016479" />
+    </group>
+    <group name="file-type">
+      <project id="tnf" values="Eclipse,JAVA,IDEA_MODULE,XML,PLAIN_TEXT" collectionTime="1524061189101" />
+      <project id="IET.tv_Test" values="JAVA,XML,IDEA_MODULE" collectionTime="1525264016310" />
+      <project id="Advertising Automation" values="CLASS,CSS,XML,Properties,Images,IDEA_MODULE,PLAIN_TEXT,HTML,Eclipse,ARCHIVE,JAVA,JavaScript,UNKNOWN" collectionTime="1526021903481" />
+      <project id="CucumberFramework" values="XML,JAVA,IDEA_MODULE" collectionTime="1526023058451" />
+    </group>
+    <group name="vcs-options">
+      <project id="tnf" values="offer.move.partially.committed.disabled,perform.update.in.background.enabled,commit.clear.initial.comment.disabled,commit.before.check.todo.enabled,commit.before.rearrange.disabled,offer.remove.empty.changelist.show_confirmation,perform.rollback.in.background.disabled,changelist.preselect.existing.disabled,changelist.make.new.active.disabled,include.text.into.shelf.enabled,offer.move.failed.committed.do_nothing_silently,check.conflicts.in.background.disabled,commit.show.unversioned.enabled,perform.checkout.in.background.enabled,perform.add_remove.in.background.enabled,commit.use.right.margin.enabled,commit.before.reformat.project.disabled,commit.before.check.code.smell.enabled,commit.before.optimize.imports.disabled,commit.before.check.non.empty.comment.disabled,perform.edit.in.background.enabled,perform.commit.in.background.enabled,show.changes.preview.disabled,commit.before.check.code.cleanup.disabled" collectionTime="1524061189096" />
+      <project id="IET.tv_Test" values="offer.move.failed.committed.do_nothing_silently,include.text.into.shelf.enabled,perform.update.in.background.enabled,check.conflicts.in.background.disabled,show.changes.preview.disabled,commit.before.check.code.smell.enabled,commit.show.unversioned.enabled,commit.before.check.todo.enabled,offer.move.partially.committed.disabled,commit.clear.initial.comment.disabled,changelist.preselect.existing.disabled,commit.before.check.code.cleanup.disabled,changelist.make.new.active.disabled,commit.before.optimize.imports.disabled,commit.before.rearrange.disabled,commit.before.check.non.empty.comment.disabled,perform.add_remove.in.background.enabled,perform.edit.in.background.enabled,commit.before.reformat.project.disabled,perform.checkout.in.background.enabled,commit.use.right.margin.enabled,offer.remove.empty.changelist.show_confirmation,perform.rollback.in.background.disabled,perform.commit.in.background.enabled" collectionTime="1525264016177" />
+      <project id="Advertising Automation" values="changelist.preselect.existing.disabled,perform.update.in.background.enabled,commit.clear.initial.comment.disabled,offer.remove.empty.changelist.show_confirmation,perform.add_remove.in.background.enabled,perform.checkout.in.background.enabled,commit.before.check.todo.enabled,check.conflicts.in.background.disabled,commit.before.check.code.smell.enabled,perform.commit.in.background.enabled,perform.edit.in.background.enabled,commit.before.optimize.imports.disabled,include.text.into.shelf.enabled,commit.before.check.non.empty.comment.disabled,commit.before.reformat.project.disabled,offer.move.partially.committed.disabled,commit.before.check.code.cleanup.disabled,commit.use.right.margin.enabled,perform.rollback.in.background.disabled,commit.show.unversioned.enabled,offer.move.failed.committed.do_nothing_silently,changelist.make.new.active.disabled,show.changes.preview.disabled,commit.before.rearrange.disabled" collectionTime="1526021903431" />
+      <project id="CucumberFramework" values="commit.before.optimize.imports.disabled,check.conflicts.in.background.disabled,offer.move.partially.committed.disabled,commit.before.rearrange.disabled,commit.before.check.code.cleanup.disabled,changelist.make.new.active.disabled,perform.rollback.in.background.disabled,commit.clear.initial.comment.disabled,perform.update.in.background.enabled,perform.checkout.in.background.enabled,commit.before.reformat.project.disabled,show.changes.preview.disabled,offer.move.failed.committed.do_nothing_silently,perform.edit.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.before.check.todo.enabled,perform.commit.in.background.enabled,commit.use.right.margin.enabled,offer.remove.empty.changelist.show_confirmation,perform.add_remove.in.background.enabled,include.text.into.shelf.enabled,changelist.preselect.existing.disabled,commit.show.unversioned.enabled,commit.before.check.code.smell.enabled" collectionTime="1526023058418" />
+    </group>
+    <group name="module type">
+      <project id="tnf" values="JAVA_MODULE" collectionTime="1524061189097" />
+      <project id="IET.tv_Test" values="JAVA_MODULE" collectionTime="1525264016179" />
+      <project id="Advertising Automation" values="JAVA_MODULE" collectionTime="1526021903433" />
+      <project id="CucumberFramework" values="JAVA_MODULE" collectionTime="1526023058419" />
+    </group>
+    <group name="vcs-stats">
+      <project id="tnf" values="active.changelists.count.1,unversioned.files.count.0,has.default.vcs.root.mapping.enabled,ignored.files.count.0,vcs.roots.count.0" collectionTime="1524061189097" />
+      <project id="IET.tv_Test" values="ignored.files.count.2,has.default.vcs.root.mapping.disabled,unversioned.files.count.30+,active.changelists.count.1,vcs.roots.count.1" collectionTime="1525264016178" />
+      <project id="Advertising Automation" values="vcs.roots.count.1,active.changelists.count.1,has.default.vcs.root.mapping.enabled,unversioned.files.count.0,ignored.files.count.1" collectionTime="1526021903432" />
+      <project id="CucumberFramework" values="active.changelists.count.1,unversioned.files.count.0,has.default.vcs.root.mapping.enabled,vcs.roots.count.0,ignored.files.count.0" collectionTime="1526023058418" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="2" />
+      <entry feature="OpenInBrowser.Firefox" count="3" />
+      <entry feature="StripeButton[Version Control].shown" count="2" />
+      <entry feature="diff.TextDiffSettings.IgnorePolicy.IGNORE_WHITESPACES" count="1" />
+      <entry feature="diff.TextDiffSettings.IgnorePolicy.TRIM_WHITESPACES" count="1" />
+      <entry feature="execute.Application.Run" count="89" />
+      <entry feature="execute.CucumberJavaRunConfigurationType.Run" count="1" />
+      <entry feature="execute.JUnit.Run" count="12" />
+      <entry feature="execute.TestNG.Coverage" count="1" />
+      <entry feature="execute.TestNG.Run" count="12" />
+      <entry feature="ide.settings.Editor Tabs" count="3" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ideaapp.started" count="25" />
+      <entry feature="project.view.pane.AndroidView" count="2" />
+      <entry feature="project.view.pane.PackagesPane" count="2" />
+      <entry feature="project.view.pane.ProjectPane" count="2" />
+      <entry feature="project.view.pane.Scope.Project Files" count="2" />
+      <entry feature="project.view.pane.Scratches" count="1" />
+      <entry feature="terminal.win" count="1" />
+      <entry feature="vcs.log.ShowDiff" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+    </counts>
+  </component>
+</application>

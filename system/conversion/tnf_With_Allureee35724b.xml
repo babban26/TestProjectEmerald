@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\Others\tnf_With_Allure\tnf_With_Allure\.idea\misc.xml" timestamp="1524060168048" />
+    <file path="D:\Others\tnf_With_Allure\tnf_With_Allure\.idea\modules.xml" timestamp="1524060168179" />
+    <file path="D:\Others\tnf_With_Allure\tnf_With_Allure\.idea\workspace.xml" timestamp="1524061724537" />
+    <file path="D:\Others\tnf_With_Allure\tnf_With_Allure\tnf.iml" timestamp="1524060167973" />
+  </project-files>
+</conversion>
+

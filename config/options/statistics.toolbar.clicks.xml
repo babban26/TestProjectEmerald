@@ -1,0 +1,22 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="FileChooser.GotoHome@FileChooserDialog" count="1" />
+      <entry action="Run@NavBarToolbar" count="1" />
+      <entry action="Vcs.ShowTabbedFileHistory@NavBarToolbar" count="1" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@TestRunnerResults" count="1" />
+      <entry action="com.intellij.find.SearchTextArea$NewLineAction@unknown" count="2" />
+      <entry action="com.intellij.find.editorHeaderActions.AddOccurrenceAction@EditorToolbar" count="15" />
+      <entry action="com.intellij.find.editorHeaderActions.FindAllAction@EditorToolbar" count="1" />
+      <entry action="com.intellij.find.editorHeaderActions.RemoveOccurrenceAction@EditorToolbar" count="11" />
+      <entry action="com.intellij.find.editorHeaderActions.SelectAllAction@EditorToolbar" count="1" />
+      <entry action="com.intellij.ide.favoritesTreeView.actions.DeleteFromFavoritesAction@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@EditorToolbar" count="2" />
+      <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@TestTreeViewToolbar" count="1" />
+      <entry action="com.intellij.openapi.vcs.changes.ui.ChangesTree$6@ChangesBrowser" count="2" />
+      <entry action="com.intellij.openapi.vcs.changes.ui.MultipleLocalChangeListsBrowser$ShowHideUnversionedFilesAction@ChangesBrowser" count="1" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="5" />
+    </counts>
+  </component>
+</application>

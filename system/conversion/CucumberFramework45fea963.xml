@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\compiler.xml" timestamp="1526021932902" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__com_google_code_findbugs_jsr305_1_3_9.xml" timestamp="1526021722334" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__com_google_code_gson_gson_2_8_2.xml" timestamp="1526021722407" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__com_google_errorprone_error_prone_annotations_2_0_18.xml" timestamp="1526021722468" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__com_google_guava_guava_23_0.xml" timestamp="1526021722526" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__com_google_j2objc_j2objc_annotations_1_1.xml" timestamp="1526021722575" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__commons_codec_commons_codec_1_10.xml" timestamp="1526021722624" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__commons_logging_commons_logging_1_2.xml" timestamp="1526021722690" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__info_cukes_cucumber_core_1_2_5.xml" timestamp="1526024489251" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__info_cukes_cucumber_html_0_2_3.xml" timestamp="1526024489444" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__info_cukes_cucumber_java_1_2_5.xml" timestamp="1526024489537" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__info_cukes_cucumber_junit_1_2_5.xml" timestamp="1526024527589" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__info_cukes_cucumber_jvm_deps_1_0_5.xml" timestamp="1526024489612" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__info_cukes_gherkin_2_12_2.xml" timestamp="1526024489709" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__junit_junit_4_12.xml" timestamp="1526021722768" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__net_bytebuddy_byte_buddy_1_7_5.xml" timestamp="1526021722827" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__org_apache_commons_commons_exec_1_3.xml" timestamp="1526021722914" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" timestamp="1526021722958" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" timestamp="1526021723008" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" timestamp="1526021723077" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__org_hamcrest_hamcrest_core_1_3.xml" timestamp="1526021723141" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_api_3_7_0.xml" timestamp="1526021723208" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_chrome_driver_3_7_0.xml" timestamp="1526021723265" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_edge_driver_3_7_0.xml" timestamp="1526021723340" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_firefox_driver_3_7_0.xml" timestamp="1526021723390" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_ie_driver_3_7_0.xml" timestamp="1526021723439" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_java_3_7_0.xml" timestamp="1526021723506" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_opera_driver_3_7_0.xml" timestamp="1526021723599" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_remote_driver_3_7_0.xml" timestamp="1526021723756" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_safari_driver_3_7_0.xml" timestamp="1526021723815" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\libraries\Maven__org_seleniumhq_selenium_selenium_support_3_7_0.xml" timestamp="1526021723865" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\misc.xml" timestamp="1526021281312" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\modules.xml" timestamp="1526021259093" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\.idea\workspace.xml" timestamp="1527504101957" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\CucumberFramework\CucumberFramework.iml" timestamp="1526649087481" />
+  </project-files>
+</conversion>
+

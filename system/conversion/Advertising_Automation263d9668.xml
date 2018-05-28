@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\Advertising Automation\.idea\misc.xml" timestamp="1524133774056" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\Advertising Automation\.idea\modules.xml" timestamp="1524133774218" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\Advertising Automation\.idea\vcs.xml" timestamp="1524133774172" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\Advertising Automation\.idea\workspace.xml" timestamp="1526031418480" />
+    <file path="D:\All-Projects\Injenta\Advertising Automation script\Advertising Automation\Advertising Automation.iml" timestamp="1524133773792" />
+  </project-files>
+</conversion>
+

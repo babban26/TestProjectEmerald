@@ -1,0 +1,40 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1600.900" x="613" y="127" />
+    <location key="new project wizard.0.0.1600.900" x="264" y="70" />
+    <location key="WELCOME_SCREEN.0.0.1600.900" x="803" y="377" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1600.900" x="496" y="262" />
+    <location key="ProcessPopupWindow.0.0.1600.900" x="995" y="645" />
+    <location key="#Project_Structure.0.0.1600.900" x="157" y="13" />
+    <location key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD.0.0.1600.900" x="504" y="328" />
+    <location key="SettingsEditor.0.0.1600.900" x="406" y="13" />
+    <location key="GitCloneDialog.0.0.1600.900" x="529" y="346" />
+    <location key="NewModule_or_Project.wizard.0.0.1600.900" x="442" y="91" />
+    <location key="#VerifyCategory.0.0.1600.900" x="522" y="0" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1600.900" x="593" y="287" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1600.900" x="575" y="314" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1600.900" x="530" y="187" />
+    <location key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1.0.0.1600.900" x="535" y="267" />
+    <location key="find.popup.0.0.1600.900" x="497" y="125" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1600.900" x="528" y="229" />
+    <location key="#Browse_Repositories.0.0.1600.900" x="576" y="23" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1364.768" x="412" y="121" />
+    <location key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog.0.0.1600.900" x="623" y="172" />
+    <location key="CommitChangelistDialog2.0.0.1600.900" x="358" y="37" />
+    <location key="git4idea.ui.GitStashDialog.0.0.1600.900" x="614" y="336" />
+    <location key="git4idea.ui.GitUnstashDialog.0.0.1600.900" x="568" y="269" />
+    <location key="Vcs.Push.Dialog.0.0.1600.900" x="476" y="151" />
+    <size key="ProcessPopupWindow.0.0.1600.900" width="400" height="190" />
+    <size key="GridCell.Tab.0.left.0.0.1600.900" width="1600" height="197" />
+    <size key="GridCell.Tab.0.center.0.0.1600.900" width="1600" height="197" />
+    <size key="GridCell.Tab.0.right.0.0.1600.900" width="1600" height="197" />
+    <size key="GridCell.Tab.0.bottom.0.0.1600.900" width="1600" height="197" />
+    <size key="javadoc.popup.0.0.1600.900" width="446" height="170" />
+    <size key="find.popup.0.0.1600.900" width="839" height="621" />
+    <size key="GridCell.Tab.0.left.0.0.1364.768" width="1364" height="148" />
+    <size key="GridCell.Tab.0.center.0.0.1364.768" width="1364" height="148" />
+    <size key="GridCell.Tab.0.right.0.0.1364.768" width="1364" height="148" />
+    <size key="GridCell.Tab.0.bottom.0.0.1364.768" width="1364" height="148" />
+    <size key="CommitChangelistDialog2.0.0.1600.900" width="759" height="786" />
+  </component>
+</application>

@@ -1,0 +1,125 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="1" />
+      <entry action="$Delete" count="9" />
+      <entry action="$SelectAll" count="6" />
+      <entry action="$Undo" count="131" />
+      <entry action="About" count="1" />
+      <entry action="ActivateFavoritesToolWindow" count="3" />
+      <entry action="ActivateFindToolWindow" count="1" />
+      <entry action="ActivateProjectToolWindow" count="10" />
+      <entry action="Add exception to method signature" count="2" />
+      <entry action="AutoIndentLines" count="4" />
+      <entry action="Back" count="108" />
+      <entry action="ChangesView.CreatePatch" count="1" />
+      <entry action="CheckinFiles" count="3" />
+      <entry action="CheckinProject" count="2" />
+      <entry action="ClassNameCompletion" count="1" />
+      <entry action="CloseAllEditorsButActive" count="1" />
+      <entry action="CodeCleanup" count="1" />
+      <entry action="CodeCompletion" count="24" />
+      <entry action="CollapseAllRegions" count="4" />
+      <entry action="CollapseRegion" count="1" />
+      <entry action="CollapseRegionRecursively" count="1" />
+      <entry action="CompareClipboardWithSelection" count="2" />
+      <entry action="CompareTwoFiles" count="1" />
+      <entry action="Create Class from Usage" count="1" />
+      <entry action="CreateRunConfiguration" count="1" />
+      <entry action="Debugger.EditFrameSource" count="3" />
+      <entry action="EditSource" count="2" />
+      <entry action="EditorBackSpace" count="1095" />
+      <entry action="EditorChooseLookupItem" count="173" />
+      <entry action="EditorChooseLookupItemDot" count="1" />
+      <entry action="EditorCopy" count="127" />
+      <entry action="EditorCut" count="16" />
+      <entry action="EditorDelete" count="536" />
+      <entry action="EditorDeleteLine" count="7" />
+      <entry action="EditorDown" count="443" />
+      <entry action="EditorDownWithSelection" count="8" />
+      <entry action="EditorDuplicate" count="7" />
+      <entry action="EditorEnter" count="245" />
+      <entry action="EditorEscape" count="9" />
+      <entry action="EditorIndentSelection" count="1" />
+      <entry action="EditorJoinLines" count="4" />
+      <entry action="EditorLeft" count="280" />
+      <entry action="EditorLeftWithSelection" count="2" />
+      <entry action="EditorLineEndWithSelection" count="1" />
+      <entry action="EditorNextWordWithSelection" count="4" />
+      <entry action="EditorPaste" count="204" />
+      <entry action="EditorPreviousWordWithSelection" count="6" />
+      <entry action="EditorRight" count="473" />
+      <entry action="EditorRightWithSelection" count="3" />
+      <entry action="EditorScrollDown" count="1" />
+      <entry action="EditorScrollUp" count="1" />
+      <entry action="EditorSelectWord" count="28" />
+      <entry action="EditorTab" count="20" />
+      <entry action="EditorUp" count="127" />
+      <entry action="EditorUpWithSelection" count="4" />
+      <entry action="ExpandRegion" count="3" />
+      <entry action="FileChooser.GotoDesktop" count="1" />
+      <entry action="FileChooser.GotoHome" count="2" />
+      <entry action="Find" count="4" />
+      <entry action="FindInPath" count="2" />
+      <entry action="FindUsages" count="13" />
+      <entry action="Forward" count="29" />
+      <entry action="Git.Stash" count="2" />
+      <entry action="Git.Unstash" count="1" />
+      <entry action="GotoAction" count="2" />
+      <entry action="GotoClass" count="5" />
+      <entry action="GotoDeclaration" count="48" />
+      <entry action="GotoSuperMethod" count="1" />
+      <entry action="GotoTest" count="1" />
+      <entry action="HideAllWindows" count="4" />
+      <entry action="ImplementMethods" count="1" />
+      <entry action="ImportSettings" count="1" />
+      <entry action="InsertLiveTemplate" count="3" />
+      <entry action="InspectCode" count="2" />
+      <entry action="JumpToLastWindow" count="4" />
+      <entry action="LocalHistory.ShowHistory" count="3" />
+      <entry action="Maven.ReimportProject" count="3" />
+      <entry action="MoveStatementDown" count="16" />
+      <entry action="MoveStatementUp" count="13" />
+      <entry action="NewClass" count="13" />
+      <entry action="NewDir" count="14" />
+      <entry action="NewFile" count="3" />
+      <entry action="NewPackageInfo" count="1" />
+      <entry action="NewProject" count="1" />
+      <entry action="NewScratchFile" count="1" />
+      <entry action="OpenFile" count="8" />
+      <entry action="OpenModuleSettings" count="1" />
+      <entry action="OptimizeImports" count="1" />
+      <entry action="QuickJavaDoc" count="3" />
+      <entry action="RecentChangedFiles" count="1" />
+      <entry action="RecentFiles" count="3" />
+      <entry action="RefactoringMenuRenameFile" count="1" />
+      <entry action="ReformatCode" count="6" />
+      <entry action="Rename File" count="1" />
+      <entry action="Rename Wrong Reference" count="2" />
+      <entry action="RenameElement" count="9" />
+      <entry action="RevealIn" count="2" />
+      <entry action="Run" count="1" />
+      <entry action="RunClass" count="113" />
+      <entry action="RunCoverage" count="1" />
+      <entry action="SaveAll" count="187" />
+      <entry action="SearchEverywhere" count="3" />
+      <entry action="Set package name to  stepDefinations " count="1" />
+      <entry action="ShowIntentionActions" count="8" />
+      <entry action="ShowPackageDeps" count="1" />
+      <entry action="ShowProjectStructureSettings" count="4" />
+      <entry action="ShowSettings" count="6" />
+      <entry action="SliceForward" count="1" />
+      <entry action="Start.Use.Vcs" count="2" />
+      <entry action="SurroundWith" count="4" />
+      <entry action="Switcher" count="38" />
+      <entry action="ToggleLineBreakpoint" count="6" />
+      <entry action="UnselectPreviousOccurrence" count="1" />
+      <entry action="Vcs.Push" count="3" />
+      <entry action="Vcs.QuickListPopupAction" count="1" />
+      <entry action="Vcs.RefreshStatuses" count="1" />
+      <entry action="Vcs.ShowTabbedFileHistory" count="1" />
+      <entry action="Vcs.UpdateProject" count="1" />
+      <entry action="tasks.switch" count="1" />
+    </counts>
+  </component>
+</application>
